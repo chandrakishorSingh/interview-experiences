@@ -15,6 +15,7 @@ I was able to clear the intern test and later the SWC Adv. test as well. In this
 - **Date**: 17 November 2021
 - **Platform**: CoCubes
 - **# of problems**: 3
+- **# of solved problems**: 2/3
 - **Duration**: 70 mins
 - **Difficulty**: Similar to LeetCode Easy/Medium
 - **Note**: From the GFG interview experience articles, I assumed that the platform will not allow to use STL(for C++). Although, as far as I remember, this was not the case and all standard libraries that are used in competitive programming were allowed.
@@ -110,13 +111,16 @@ The interview can be divided into 4 parts of introduction, project discussion, c
 
 ## Tips & Tricks
 
-- Make sure to solve previously asked problems. There is very high chance that the questions might repeat. GFG interview experience articles are great way to do this. [Here](https://www.geeksforgeeks.org/internship-interview-experiences-company-wise/?ref=ghm#Samsung) is a collection of those articles for SRIB. Another collection of problems which helped a lot is [this](https://github.com/MohMaya/TargetSMSNG) repository.
+- Make sure to solve previously asked problems. There is very high chance that the questions might repeat. GFG interview experience articles are great way to do this. 
+  - [Here](https://www.geeksforgeeks.org/internship-interview-experiences-company-wise/?ref=ghm#Samsung) is a collection of those articles for SRIB.
+  - Another collection of previously asked problems which helped a lot is [this](https://github.com/MohMaya/TargetSMSNG) repository. It only contains problem description. On the other hand, [this](https://github.com/s-kachroo/SamsungPractice) and [this](https://github.com/chaharnishant11/SamsungSolutions) repository contains code of most of the problems mentioned in the first repository.
+  - And this [youtube channel](https://www.youtube.com/c/AnuragCodes) has video solution to some of those problems.
 - SWC problems are usually easy/medium but their input format might be non-traditional. Take [this](https://www.youtube.com/watch?v=OJX1umVCsJc) problem for example. The solution is just a simple DFS but creating/traversing the graph itself is little difficult in terms of implementation.
 - Do all the setup for SWC one day before as installation will take some time.
 
 ## Learnings
 
-- Keep practising even after you've got your desired job. Doing 1 problem a day keeps unemployment away.
+- Keep practising even after you've got your desired job. Doing 1 problem a day keeps unemployment away 💯.
 
 
 
