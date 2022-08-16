@@ -18,6 +18,7 @@ I was able to clear the intern test and later the SWC Adv. test as well. In this
 - **# of solved problems**: 2/3
 - **Duration**: 70 mins
 - **Difficulty**: Similar to LeetCode Easy/Medium
+- **Other criteria**: CGPA was also one of the factor for shortlisting.
 - **Note**: From the GFG interview experience articles, I assumed that the platform will not allow to use STL(for C++). Although, as far as I remember, this was not the case and all standard libraries that are used in competitive programming were allowed.
 
 #### Problem 1
